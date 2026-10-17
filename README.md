@@ -71,7 +71,6 @@ A multilingual agricultural web app with crop-disease diagnosis, crop recommenda
 
 - **B.Tech, Information Technology** — Chennai Institute of Technology · 2024–Present
 - **AWS Certified AI Practitioner** — AI/ML and generative AI fundamentals, responsible AI, and AWS AI services
-- **AWS Cloud Practitioner Essentials** — AWS core services, security, pricing, and cloud concepts
 - **Introduction to MongoDB** — data modeling, CRUD operations, indexing, and queries
 
 ## 🤝 Connect
