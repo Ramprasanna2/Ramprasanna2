@@ -51,11 +51,6 @@ A privacy-focused chatbot using retrieval-augmented generation and semantic memo
 
 **Python · FastAPI · LangChain · ChromaDB · Ollama · Mistral**
 
-### 🌱 [AgriVision — AI-Powered Agricultural Assistant](https://github.com/Ramprasanna2/Agri)
-A multilingual agricultural web app with crop-disease diagnosis, crop recommendations, market information, sensor insights, and government-scheme suggestions.
-
-**Next.js · React · TypeScript · Tailwind CSS · Genkit · Google Gemini**
-
 ### 🎲 More Web Projects
 [Roll Dice](https://github.com/Ramprasanna2/mine-work) · [Calculator](https://github.com/Ramprasanna2/calculator) · [To-do List](https://github.com/Ramprasanna2/to-do-list)
 
@@ -72,15 +67,6 @@ A multilingual agricultural web app with crop-disease diagnosis, crop recommenda
 - **B.Tech, Information Technology** — Chennai Institute of Technology · 2024–Present
 - **AWS Certified AI Practitioner** — AI/ML and generative AI fundamentals, responsible AI, and AWS AI services
 - **Introduction to MongoDB** — data modeling, CRUD operations, indexing, and queries
-
-## 🤝 Connect
-
-- [LeetCode](https://leetcode.com/u/Ramprasanna1/)
-- [CodeChef](https://www.codechef.com/users/ramprasanna)
-- [LinkedIn](https://linkedin.com/in/ram-prasanna-6812a9328)
-- [GitHub](https://github.com/Ramprasanna2)
-
----
 
 *Training consistently, competing regularly, and building with purpose.*
 
