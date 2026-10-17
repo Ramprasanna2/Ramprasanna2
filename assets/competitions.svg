@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="440" viewBox="0 0 500 440" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="440" rx="12" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="499" height="439" rx="12" fill="none" stroke="#30363d"/>
+  <line x1="0" y1="36" x2="500" y2="36" stroke="#30363d"/>
+  <circle cx="24" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="18" r="5" fill="#27c93f"/>
+  <text x="250" y="23" fill="#7d8590" font-size="14" text-anchor="middle">ramprasanna@github: ~/competitions</text>
+
+  <clipPath id="ct0">
+    <rect x="24" y="46" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.000s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct0)">
+    <text xml:space="preserve" x="24" y="64" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#d2a8ff" font-weight="bold">Codeathon 2026</tspan></text>
+  </g>
+  <rect y="47" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.000s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.000s"/>
+    <set attributeName="opacity" to="0" begin="0.140s"/>
+  </rect>
+  <clipPath id="ct1">
+    <rect x="24" y="69" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.140s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct1)">
+    <text xml:space="preserve" x="38" y="87" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#7ee787" font-weight="bold">Top 20 Finalist</tspan><tspan fill="#8b949e"> · State Level Contest</tspan></text>
+  </g>
+  <rect y="70" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.140s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.140s"/>
+    <set attributeName="opacity" to="0" begin="0.280s"/>
+  </rect>
+  <clipPath id="ct3">
+    <rect x="24" y="115" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.420s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct3)">
+    <text xml:space="preserve" x="24" y="133" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#3fb950" font-weight="bold">H@CIT 2024</tspan></text>
+  </g>
+  <rect y="116" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.420s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.420s"/>
+    <set attributeName="opacity" to="0" begin="0.560s"/>
+  </rect>
+  <clipPath id="ct4">
+    <rect x="24" y="138" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.560s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct4)">
+    <text xml:space="preserve" x="38" y="156" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#7ee787" font-weight="bold">Top 20 Finalist</tspan><tspan fill="#8b949e"> · Hackathon &amp; Coding</tspan></text>
+  </g>
+  <rect y="139" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.560s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.560s"/>
+    <set attributeName="opacity" to="0" begin="0.700s"/>
+  </rect>
+  <clipPath id="ct6">
+    <rect x="24" y="184" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.840s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct6)">
+    <text xml:space="preserve" x="24" y="202" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#79c0ff" font-weight="bold">Runtime Rumble 2025</tspan></text>
+  </g>
+  <rect y="185" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.840s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.840s"/>
+    <set attributeName="opacity" to="0" begin="0.980s"/>
+  </rect>
+  <clipPath id="ct7">
+    <rect x="24" y="207" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="0.980s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct7)">
+    <text xml:space="preserve" x="38" y="225" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#58a6ff" font-weight="bold">Top 50 Rank</tspan><tspan fill="#8b949e"> · DSA Challenge</tspan></text>
+  </g>
+  <rect y="208" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="0.980s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="0.980s"/>
+    <set attributeName="opacity" to="0" begin="1.120s"/>
+  </rect>
+  <clipPath id="ct9">
+    <rect x="24" y="253" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.260s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct9)">
+    <text xml:space="preserve" x="24" y="271" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#ffa657" font-weight="bold">DSCI Cyber Forensics</tspan></text>
+  </g>
+  <rect y="254" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.260s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.260s"/>
+    <set attributeName="opacity" to="0" begin="1.400s"/>
+  </rect>
+  <clipPath id="ct10">
+    <rect x="24" y="276" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.400s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct10)">
+    <text xml:space="preserve" x="38" y="294" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#e3b341" font-weight="bold">Special Recognition Winner</tspan></text>
+  </g>
+  <rect y="277" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.400s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.400s"/>
+    <set attributeName="opacity" to="0" begin="1.540s"/>
+  </rect>
+  <clipPath id="ct11">
+    <rect x="24" y="299" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.540s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct11)">
+    <text xml:space="preserve" x="38" y="317" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#c9d1d9">Top 20 among 1,000+ national teams</tspan></text>
+  </g>
+  <rect y="300" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.540s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.540s"/>
+    <set attributeName="opacity" to="0" begin="1.680s"/>
+  </rect>
+  <clipPath id="ct13">
+    <rect x="24" y="345" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.820s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct13)">
+    <text xml:space="preserve" x="24" y="363" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#e3b341" font-weight="bold">CodeChef Contest Contender</tspan></text>
+  </g>
+  <rect y="346" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.820s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.820s"/>
+    <set attributeName="opacity" to="0" begin="1.960s"/>
+  </rect>
+  <clipPath id="ct14">
+    <rect x="24" y="368" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="1.960s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct14)">
+    <text xml:space="preserve" x="38" y="386" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#c9d1d9">Silver Badge (25+ Rated Contests)</tspan></text>
+  </g>
+  <rect y="369" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="1.960s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="1.960s"/>
+    <set attributeName="opacity" to="0" begin="2.100s"/>
+  </rect>
+  <clipPath id="ct16">
+    <rect x="24" y="414" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="2.240s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct16)">
+    <text xml:space="preserve" x="24" y="432" font-size="18" font-weight="bold"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#f97583" font-weight="bold">AWS Certified AI Practitioner</tspan></text>
+  </g>
+  <rect y="415" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="2.240s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="2.240s"/>
+    <set attributeName="opacity" to="0" begin="2.380s"/>
+  </rect>
+  <clipPath id="ct17">
+    <rect x="24" y="437" height="26" width="0">
+      <animate attributeName="width" from="0" to="452" begin="2.380s" dur="0.14s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#ct17)">
+    <text xml:space="preserve" x="38" y="455" font-size="15" font-weight="normal"><tspan fill="#8b949e">│ </tspan><tspan fill="#c9d1d9">Certified Generative AI &amp; ML Foundation</tspan></text>
+  </g>
+  <rect y="438" width="10" height="22" fill="#00E5FF" opacity="0">
+    <animate attributeName="x" from="24" to="476" begin="2.380s" dur="0.14s" fill="freeze"/>
+    <set attributeName="opacity" to="0.8" begin="2.380s"/>
+    <set attributeName="opacity" to="0" begin="2.520s"/>
+  </rect>
+
+  <rect x="24" y="416" width="10" height="18" fill="#00E5FF">
+    <set attributeName="opacity" to="0" begin="0s"/>
+    <set attributeName="opacity" to="1" begin="2.520s"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" begin="2.520s"/>
+  </rect>
+</svg>
